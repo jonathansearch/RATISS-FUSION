@@ -7,9 +7,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Q-pic_101-orange.svg" alt="Q"/>
 <img src="https://img.shields.io/badge/Tests-4%2F4-brightgreen.svg" alt="Tests"/>
-<img src="https://img.shields.io/badge/R%C3%A9activit%C3%A9-Bosch_Hale-blue.svg" alt="Bosch-Hale"/>
+<img src="https://img.shields.io/badge/Reactivity-Bosch_Hale-blue.svg" alt="Bosch-Hale"/>
 <img src="https://img.shields.io/badge/Visu-Three.js-purple.svg" alt="Three.js"/>
-<img src="https://img.shields.io/badge/Licence-MIT-yellow.svg" alt="MIT"/>
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT"/>
 </p>
 
 <p align="center"><img src="images/hero-fusion.png" width="100%" alt="D-T ignition"/></p>
